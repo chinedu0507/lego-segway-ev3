@@ -20,8 +20,6 @@ infrared_sensor = InfraredSensor(Port.S3)
 gyro_sensor = GyroSensor(Port.S2)
 
 
-
-
 # Reset gyro [confirm this]
 
 
